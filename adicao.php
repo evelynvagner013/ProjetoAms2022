@@ -8,7 +8,7 @@
         echo "A Soma é : " . $resultado + 8;
     }
     else{
-        echo "A Soma é : " . $resultado - 5;
+        echo "A Soma é : " . $resultado - 4;
     }
     
 ?>
