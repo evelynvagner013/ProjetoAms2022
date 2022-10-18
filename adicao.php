@@ -6,6 +6,7 @@
     if( $resultado >20){
       
         echo "A Soma é : " . $resultado + 8;
+         echo "A Soma é : " . $resultado + 8;
     }
     else{
         echo "A Soma é : " . $resultado - 4;
